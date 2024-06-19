@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../문서/GitHub/InteractiveWeb"
+		},
+		{
+			"path": "../.idea"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": ".idea"
+	}
+}
